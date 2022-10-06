@@ -64,5 +64,5 @@ $form.addEventListener('submit', (event) => { //event매개변수로
     } 
   }
   $logs.append(`${value} : ${strike}스트라이크 ${ball}볼`, document.createElement('br'));
-  tries.push(value);
+  tries.push(value);ss
 });
